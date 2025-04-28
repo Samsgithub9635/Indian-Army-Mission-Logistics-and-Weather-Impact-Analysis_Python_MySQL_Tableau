@@ -66,21 +66,22 @@ Original Indian Army logistics and weather data could not be used due to **confi
 ---
 
 ## 🛠️ How to Run the Project
-1. Clone the repository:
+Clone the repository:
    git clone https://github.com/your-username/OperationSuraksha.git
+
 Setup environment:
 
-Install Python packages: pandas
+   Install Python packages: pandas
 
-Setup MySQL/SQLite database.
+   Setup MySQL/SQLite database.
 
-Load the CSVs into your database.
+   Load the CSVs into your database.
 
-Open Power BI Desktop and connect to your database or directly load CSVs.
+   Open Power BI Desktop and connect to your database or directly load CSVs.
 
-Build visuals or load the provided .pbix file.
+   Load the provided .pbix file.
 
-Analyze the dashboards and derive insights!
+   Analyze the dashboards and derive insights!
 
 ## 🧠 Insights Derived
 Extreme weather (heavy snowfall, low visibility) significantly delays drone deliveries.
