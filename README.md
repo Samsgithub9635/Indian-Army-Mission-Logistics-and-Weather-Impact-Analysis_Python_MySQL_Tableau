@@ -16,11 +16,19 @@ Due to national security and confidentiality, **dummy data** has been generated 
 ---
 
 ## 🗂️ Project Structure
-Indian_Army_Logistics_Project/ │ ├── clean_logistics.csv # Logistics mission data (dummy) ├── clean_weather.csv # Weather conditions data (dummy) ├── clean_drone_ops.csv # Drone/Mule operations data (dummy) │ ├── preprocessing.py # Python script for data cleaning ├── ArmyLogisticsDB.sql # SQL scripts to create and populate database │ ├── OperationSuraksha.pbix # Power BI dashboard file │ └── README.md # Project documentation
+OperationSuraksha/
+│
+├── README.md                  # Project documentation (this file)
+├── logistics.csv         # Logistics mission data (dummy)
+├── weather.csv           # Weather conditions data (dummy)
+├── drone_ops.csv         # Drone/Mule operations data (dummy)
+│
+├── preprocessing.ipynb           # Python script for data cleaning and preprocessing
+├── ArmyLogisticsDB.sql         # SQL script to create and populate the database
+│
+├── OperationSuraksha.pbix      # Power BI dashboard file (interactive report)
 
-yaml
-Copy
-Edit
+
 
 ---
 
