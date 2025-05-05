@@ -1,0 +1,151 @@
+Mission_ID,Source_Base,Destination_Post,Transport_Mode,Departure_Time,Arrival_Time,Status,Delay_Reason,Critical_Supplies
+MSHN_001,Drass Base,Siachen Post 2,Truck,2025-04-06 20:00,2025-04-07 15:00,Completed,None,Yes
+MSHN_002,Drass Base,Siachen Post 2,Robotic Mule,2025-04-12 15:00,2025-04-13 00:00,In-Progress,Avalanche,Yes
+MSHN_003,Leh Base,Siachen Post 2,Truck,2025-04-05 23:00,2025-04-07 11:00,In-Progress,Snowfall,Yes
+MSHN_004,Drass Base,Siachen Post 9,Drone,2025-04-05 16:00,2025-04-07 00:00,In-Progress,Avalanche,Yes
+MSHN_005,Leh Base,Siachen Post 7,Drone,2025-04-06 22:00,2025-04-07 11:00,Completed,None,No
+MSHN_006,Leh Base,Siachen Post 2,Drone,2025-04-03 01:00,2025-04-04 03:00,Delayed,Technical,No
+MSHN_007,Leh Base,Siachen Post 8,Robotic Mule,2025-04-03 15:00,2025-04-04 19:00,Completed,None,No
+MSHN_008,Drass Base,Siachen Post 10,Drone,2025-04-13 07:00,2025-04-13 23:00,In-Progress,Snowfall,Yes
+MSHN_009,Drass Base,Siachen Post 4,Drone,2025-04-02 16:00,2025-04-03 10:00,Completed,None,No
+MSHN_010,Kargil Base,Siachen Post 8,Robotic Mule,2025-04-08 18:00,2025-04-09 08:00,Delayed,Avalanche,Yes
+MSHN_011,Drass Base,Siachen Post 5,Robotic Mule,2025-04-02 12:00,2025-04-04 06:00,In-Progress,Snowfall,Yes
+MSHN_012,Leh Base,Siachen Post 8,Drone,2025-04-06 18:00,2025-04-08 14:00,In-Progress,Technical,Yes
+MSHN_013,Drass Base,Siachen Post 6,Truck,2025-04-05 21:00,2025-04-06 03:00,Delayed,Avalanche,No
+MSHN_014,Leh Base,Siachen Post 4,Robotic Mule,2025-04-07 17:00,2025-04-08 10:00,In-Progress,Avalanche,No
+MSHN_015,Drass Base,Siachen Post 8,Truck,2025-04-06 15:00,2025-04-07 03:00,Completed,None,No
+MSHN_016,Drass Base,Siachen Post 10,Drone,2025-04-13 10:00,2025-04-14 15:00,Delayed,Snowfall,Yes
+MSHN_017,Drass Base,Siachen Post 8,Truck,2025-04-02 00:00,2025-04-02 11:00,Completed,None,Yes
+MSHN_018,Drass Base,Siachen Post 7,Robotic Mule,2025-04-02 08:00,2025-04-03 12:00,Delayed,Technical,No
+MSHN_019,Drass Base,Siachen Post 5,Robotic Mule,2025-04-01 05:00,2025-04-03 04:00,In-Progress,Snowfall,No
+MSHN_020,Drass Base,Siachen Post 6,Truck,2025-04-07 06:00,2025-04-08 13:00,Completed,None,No
+MSHN_021,Leh Base,Siachen Post 5,Robotic Mule,2025-04-04 19:00,2025-04-06 07:00,Completed,None,No
+MSHN_022,Drass Base,Siachen Post 9,Robotic Mule,2025-04-05 05:00,2025-04-05 18:00,Delayed,Snowfall,Yes
+MSHN_023,Drass Base,Siachen Post 6,Drone,2025-04-01 09:00,2025-04-01 20:00,Delayed,Avalanche,Yes
+MSHN_024,Leh Base,Siachen Post 4,Robotic Mule,2025-04-02 16:00,2025-04-03 01:00,In-Progress,Avalanche,Yes
+MSHN_025,Drass Base,Siachen Post 3,Truck,2025-04-11 03:00,2025-04-12 18:00,Completed,None,No
+MSHN_026,Drass Base,Siachen Post 10,Drone,2025-04-05 12:00,2025-04-07 02:00,In-Progress,Technical,Yes
+MSHN_027,Drass Base,Siachen Post 5,Drone,2025-04-08 23:00,2025-04-10 07:00,In-Progress,Avalanche,Yes
+MSHN_028,Leh Base,Siachen Post 4,Truck,2025-04-08 05:00,2025-04-08 10:00,In-Progress,Technical,Yes
+MSHN_029,Drass Base,Siachen Post 4,Truck,2025-04-02 12:00,2025-04-04 08:00,Completed,None,Yes
+MSHN_030,Leh Base,Siachen Post 1,Drone,2025-04-02 12:00,2025-04-04 00:00,Completed,None,No
+MSHN_031,Drass Base,Siachen Post 8,Truck,2025-04-12 12:00,2025-04-13 00:00,In-Progress,Technical,No
+MSHN_032,Leh Base,Siachen Post 8,Drone,2025-04-05 01:00,2025-04-05 11:00,Completed,None,No
+MSHN_033,Kargil Base,Siachen Post 7,Drone,2025-04-10 23:00,2025-04-11 06:00,In-Progress,Technical,Yes
+MSHN_034,Leh Base,Siachen Post 7,Robotic Mule,2025-04-08 05:00,2025-04-08 15:00,Completed,None,Yes
+MSHN_035,Leh Base,Siachen Post 9,Drone,2025-04-03 23:00,2025-04-05 06:00,Completed,None,No
+MSHN_036,Kargil Base,Siachen Post 4,Truck,2025-04-10 10:00,2025-04-12 01:00,Completed,None,Yes
+MSHN_037,Drass Base,Siachen Post 9,Truck,2025-04-02 23:00,2025-04-03 18:00,Completed,None,No
+MSHN_038,Kargil Base,Siachen Post 8,Truck,2025-04-09 13:00,2025-04-09 20:00,Completed,None,No
+MSHN_039,Leh Base,Siachen Post 7,Drone,2025-04-10 16:00,2025-04-11 14:00,Delayed,Technical,No
+MSHN_040,Leh Base,Siachen Post 4,Drone,2025-04-05 15:00,2025-04-05 22:00,In-Progress,Technical,Yes
+MSHN_041,Drass Base,Siachen Post 6,Truck,2025-04-02 01:00,2025-04-03 18:00,Delayed,Technical,Yes
+MSHN_042,Leh Base,Siachen Post 9,Truck,2025-04-04 23:00,2025-04-05 07:00,In-Progress,Snowfall,Yes
+MSHN_043,Kargil Base,Siachen Post 2,Robotic Mule,2025-04-06 06:00,2025-04-07 23:00,In-Progress,Snowfall,Yes
+MSHN_044,Kargil Base,Siachen Post 10,Robotic Mule,2025-04-12 03:00,2025-04-13 03:00,Delayed,Snowfall,No
+MSHN_045,Leh Base,Siachen Post 5,Drone,2025-04-03 19:00,2025-04-05 17:00,In-Progress,Avalanche,No
+MSHN_046,Kargil Base,Siachen Post 2,Truck,2025-04-10 18:00,2025-04-12 13:00,In-Progress,Snowfall,Yes
+MSHN_047,Drass Base,Siachen Post 4,Robotic Mule,2025-04-06 15:00,2025-04-07 03:00,Delayed,Snowfall,Yes
+MSHN_048,Kargil Base,Siachen Post 5,Truck,2025-04-10 08:00,2025-04-11 22:00,In-Progress,Avalanche,Yes
+MSHN_049,Drass Base,Siachen Post 9,Drone,2025-04-03 05:00,2025-04-03 17:00,Delayed,Snowfall,Yes
+MSHN_050,Drass Base,Siachen Post 9,Truck,2025-04-06 19:00,2025-04-07 17:00,In-Progress,Snowfall,No
+MSHN_051,Leh Base,Siachen Post 5,Robotic Mule,2025-04-11 10:00,2025-04-12 06:00,Completed,None,Yes
+MSHN_052,Drass Base,Siachen Post 7,Drone,2025-04-01 22:00,2025-04-02 02:00,Delayed,Snowfall,No
+MSHN_053,Leh Base,Siachen Post 8,Robotic Mule,2025-04-10 02:00,2025-04-11 17:00,Completed,None,Yes
+MSHN_054,Leh Base,Siachen Post 3,Robotic Mule,2025-04-01 18:00,2025-04-02 21:00,In-Progress,Technical,Yes
+MSHN_055,Kargil Base,Siachen Post 3,Truck,2025-04-07 13:00,2025-04-08 16:00,Completed,None,No
+MSHN_056,Leh Base,Siachen Post 4,Robotic Mule,2025-04-03 04:00,2025-04-04 06:00,In-Progress,Avalanche,Yes
+MSHN_057,Leh Base,Siachen Post 3,Truck,2025-04-09 19:00,2025-04-10 00:00,Completed,None,No
+MSHN_058,Kargil Base,Siachen Post 4,Drone,2025-04-04 09:00,2025-04-06 09:00,Completed,None,No
+MSHN_059,Leh Base,Siachen Post 8,Truck,2025-04-05 06:00,2025-04-06 15:00,Delayed,Avalanche,Yes
+MSHN_060,Leh Base,Siachen Post 1,Robotic Mule,2025-04-05 02:00,2025-04-06 07:00,Delayed,Avalanche,Yes
+MSHN_061,Kargil Base,Siachen Post 6,Robotic Mule,2025-04-11 20:00,2025-04-13 01:00,In-Progress,Technical,No
+MSHN_062,Leh Base,Siachen Post 2,Drone,2025-04-04 19:00,2025-04-06 12:00,Delayed,Snowfall,Yes
+MSHN_063,Drass Base,Siachen Post 7,Drone,2025-04-07 16:00,2025-04-08 23:00,In-Progress,Technical,Yes
+MSHN_064,Kargil Base,Siachen Post 10,Truck,2025-04-06 10:00,2025-04-06 16:00,In-Progress,Avalanche,Yes
+MSHN_065,Drass Base,Siachen Post 9,Robotic Mule,2025-04-05 04:00,2025-04-06 07:00,Delayed,Snowfall,No
+MSHN_066,Drass Base,Siachen Post 6,Robotic Mule,2025-04-03 15:00,2025-04-04 14:00,In-Progress,Avalanche,No
+MSHN_067,Kargil Base,Siachen Post 7,Robotic Mule,2025-04-07 07:00,2025-04-08 22:00,Completed,None,Yes
+MSHN_068,Kargil Base,Siachen Post 7,Robotic Mule,2025-04-04 17:00,2025-04-06 12:00,In-Progress,Avalanche,No
+MSHN_069,Drass Base,Siachen Post 1,Drone,2025-04-07 02:00,2025-04-07 19:00,Delayed,Technical,No
+MSHN_070,Kargil Base,Siachen Post 8,Drone,2025-04-05 13:00,2025-04-07 01:00,Delayed,Technical,Yes
+MSHN_071,Drass Base,Siachen Post 2,Drone,2025-04-11 23:00,2025-04-13 21:00,In-Progress,Technical,No
+MSHN_072,Leh Base,Siachen Post 4,Robotic Mule,2025-04-07 14:00,2025-04-08 08:00,Completed,None,Yes
+MSHN_073,Leh Base,Siachen Post 1,Truck,2025-04-11 03:00,2025-04-12 22:00,Completed,None,No
+MSHN_074,Kargil Base,Siachen Post 10,Truck,2025-04-09 04:00,2025-04-10 15:00,Delayed,Snowfall,Yes
+MSHN_075,Drass Base,Siachen Post 1,Truck,2025-04-10 01:00,2025-04-10 19:00,Completed,None,No
+MSHN_076,Leh Base,Siachen Post 9,Truck,2025-04-03 14:00,2025-04-04 23:00,Completed,None,No
+MSHN_077,Drass Base,Siachen Post 9,Robotic Mule,2025-04-07 18:00,2025-04-09 02:00,In-Progress,Technical,No
+MSHN_078,Drass Base,Siachen Post 8,Truck,2025-04-11 03:00,2025-04-12 11:00,Delayed,Snowfall,No
+MSHN_079,Drass Base,Siachen Post 8,Robotic Mule,2025-04-06 02:00,2025-04-06 23:00,Delayed,Snowfall,No
+MSHN_080,Leh Base,Siachen Post 5,Drone,2025-04-07 19:00,2025-04-09 09:00,Completed,None,Yes
+MSHN_081,Leh Base,Siachen Post 4,Drone,2025-04-04 06:00,2025-04-04 23:00,Completed,None,No
+MSHN_082,Kargil Base,Siachen Post 6,Robotic Mule,2025-04-10 22:00,2025-04-12 04:00,Completed,None,Yes
+MSHN_083,Kargil Base,Siachen Post 7,Robotic Mule,2025-04-01 10:00,2025-04-03 02:00,Delayed,Avalanche,Yes
+MSHN_084,Kargil Base,Siachen Post 5,Drone,2025-04-09 22:00,2025-04-11 12:00,In-Progress,Technical,Yes
+MSHN_085,Kargil Base,Siachen Post 4,Drone,2025-04-10 07:00,2025-04-11 18:00,Completed,None,No
+MSHN_086,Kargil Base,Siachen Post 7,Robotic Mule,2025-04-04 12:00,2025-04-05 21:00,Completed,None,Yes
+MSHN_087,Kargil Base,Siachen Post 10,Robotic Mule,2025-04-01 13:00,2025-04-01 22:00,In-Progress,Avalanche,Yes
+MSHN_088,Kargil Base,Siachen Post 3,Truck,2025-04-06 13:00,2025-04-07 17:00,Delayed,Snowfall,No
+MSHN_089,Kargil Base,Siachen Post 6,Drone,2025-04-06 22:00,2025-04-08 04:00,Delayed,Snowfall,No
+MSHN_090,Leh Base,Siachen Post 9,Truck,2025-04-08 11:00,2025-04-09 05:00,In-Progress,Snowfall,Yes
+MSHN_091,Leh Base,Siachen Post 4,Truck,2025-04-01 10:00,2025-04-03 05:00,Completed,None,Yes
+MSHN_092,Leh Base,Siachen Post 8,Robotic Mule,2025-04-03 10:00,2025-04-05 02:00,Completed,None,No
+MSHN_093,Drass Base,Siachen Post 5,Drone,2025-04-04 13:00,2025-04-06 07:00,In-Progress,Technical,Yes
+MSHN_094,Leh Base,Siachen Post 5,Truck,2025-04-13 08:00,2025-04-13 13:00,Delayed,Technical,No
+MSHN_095,Kargil Base,Siachen Post 4,Truck,2025-04-06 04:00,2025-04-06 14:00,In-Progress,Avalanche,Yes
+MSHN_096,Drass Base,Siachen Post 1,Drone,2025-04-12 08:00,2025-04-13 15:00,In-Progress,Avalanche,Yes
+MSHN_097,Drass Base,Siachen Post 6,Truck,2025-04-09 23:00,2025-04-11 10:00,Completed,None,No
+MSHN_098,Kargil Base,Siachen Post 8,Robotic Mule,2025-04-04 06:00,2025-04-05 13:00,Completed,None,No
+MSHN_099,Drass Base,Siachen Post 9,Drone,2025-04-10 22:00,2025-04-12 05:00,In-Progress,Technical,No
+MSHN_100,Kargil Base,Siachen Post 4,Truck,2025-04-06 22:00,2025-04-08 06:00,Completed,None,No
+MSHN_101,Drass Base,Siachen Post 10,Robotic Mule,2025-04-09 02:00,2025-04-10 03:00,Completed,None,No
+MSHN_102,Kargil Base,Siachen Post 3,Drone,2025-04-05 12:00,2025-04-06 14:00,Delayed,Avalanche,No
+MSHN_103,Drass Base,Siachen Post 5,Robotic Mule,2025-04-01 05:00,2025-04-02 18:00,Completed,None,Yes
+MSHN_104,Leh Base,Siachen Post 7,Drone,2025-04-12 20:00,2025-04-13 15:00,In-Progress,Avalanche,No
+MSHN_105,Kargil Base,Siachen Post 1,Truck,2025-04-07 06:00,2025-04-08 00:00,Delayed,Technical,Yes
+MSHN_106,Kargil Base,Siachen Post 10,Drone,2025-04-11 02:00,2025-04-12 17:00,In-Progress,Avalanche,No
+MSHN_107,Drass Base,Siachen Post 9,Drone,2025-04-08 12:00,2025-04-10 12:00,Delayed,Avalanche,No
+MSHN_108,Kargil Base,Siachen Post 4,Truck,2025-04-05 02:00,2025-04-06 02:00,Completed,None,Yes
+MSHN_109,Leh Base,Siachen Post 4,Robotic Mule,2025-04-11 07:00,2025-04-12 04:00,In-Progress,Technical,No
+MSHN_110,Leh Base,Siachen Post 4,Drone,2025-04-05 20:00,2025-04-06 23:00,Completed,None,No
+MSHN_111,Leh Base,Siachen Post 9,Truck,2025-04-06 20:00,2025-04-07 02:00,Completed,None,No
+MSHN_112,Drass Base,Siachen Post 3,Robotic Mule,2025-04-11 11:00,2025-04-11 21:00,Completed,None,No
+MSHN_113,Kargil Base,Siachen Post 8,Drone,2025-04-08 06:00,2025-04-08 21:00,Completed,None,No
+MSHN_114,Kargil Base,Siachen Post 2,Truck,2025-04-09 13:00,2025-04-11 00:00,Completed,None,Yes
+MSHN_115,Leh Base,Siachen Post 3,Robotic Mule,2025-04-07 11:00,2025-04-07 20:00,Completed,None,Yes
+MSHN_116,Drass Base,Siachen Post 7,Robotic Mule,2025-04-05 19:00,2025-04-07 08:00,Delayed,Avalanche,No
+MSHN_117,Kargil Base,Siachen Post 10,Drone,2025-04-07 12:00,2025-04-09 04:00,In-Progress,Snowfall,Yes
+MSHN_118,Leh Base,Siachen Post 4,Drone,2025-04-02 17:00,2025-04-03 07:00,Completed,None,Yes
+MSHN_119,Drass Base,Siachen Post 2,Truck,2025-04-01 01:00,2025-04-02 07:00,Delayed,Technical,No
+MSHN_120,Kargil Base,Siachen Post 1,Truck,2025-04-07 03:00,2025-04-08 01:00,In-Progress,Avalanche,Yes
+MSHN_121,Drass Base,Siachen Post 4,Drone,2025-04-05 05:00,2025-04-06 12:00,Completed,None,Yes
+MSHN_122,Drass Base,Siachen Post 3,Drone,2025-04-04 00:00,2025-04-04 08:00,Completed,None,Yes
+MSHN_123,Kargil Base,Siachen Post 10,Robotic Mule,2025-04-13 03:00,2025-04-14 01:00,Delayed,Snowfall,No
+MSHN_124,Drass Base,Siachen Post 5,Robotic Mule,2025-04-09 14:00,2025-04-10 11:00,In-Progress,Technical,No
+MSHN_125,Kargil Base,Siachen Post 2,Robotic Mule,2025-04-01 20:00,2025-04-03 03:00,In-Progress,Avalanche,No
+MSHN_126,Leh Base,Siachen Post 2,Truck,2025-04-13 06:00,2025-04-14 23:00,Completed,None,No
+MSHN_127,Drass Base,Siachen Post 1,Truck,2025-04-11 00:00,2025-04-12 13:00,In-Progress,Avalanche,No
+MSHN_128,Leh Base,Siachen Post 10,Drone,2025-04-11 11:00,2025-04-11 20:00,Delayed,Avalanche,No
+MSHN_129,Kargil Base,Siachen Post 6,Robotic Mule,2025-04-03 05:00,2025-04-03 19:00,Delayed,Avalanche,No
+MSHN_130,Kargil Base,Siachen Post 7,Robotic Mule,2025-04-01 18:00,2025-04-03 03:00,Completed,None,No
+MSHN_131,Kargil Base,Siachen Post 6,Truck,2025-04-09 14:00,2025-04-11 02:00,Completed,None,No
+MSHN_132,Kargil Base,Siachen Post 1,Truck,2025-04-12 01:00,2025-04-13 04:00,In-Progress,Avalanche,No
+MSHN_133,Leh Base,Siachen Post 4,Drone,2025-04-12 17:00,2025-04-13 05:00,Delayed,Avalanche,No
+MSHN_134,Leh Base,Siachen Post 1,Robotic Mule,2025-04-06 02:00,2025-04-06 16:00,Delayed,Technical,Yes
+MSHN_135,Drass Base,Siachen Post 7,Truck,2025-04-05 19:00,2025-04-06 06:00,Delayed,Snowfall,Yes
+MSHN_136,Kargil Base,Siachen Post 5,Robotic Mule,2025-04-06 19:00,2025-04-08 01:00,Delayed,Avalanche,Yes
+MSHN_137,Kargil Base,Siachen Post 9,Truck,2025-04-09 04:00,2025-04-09 20:00,In-Progress,Technical,Yes
+MSHN_138,Leh Base,Siachen Post 5,Drone,2025-04-08 06:00,2025-04-09 18:00,Delayed,Snowfall,No
+MSHN_139,Drass Base,Siachen Post 5,Robotic Mule,2025-04-13 08:00,2025-04-15 06:00,Delayed,Snowfall,No
+MSHN_140,Drass Base,Siachen Post 8,Drone,2025-04-08 02:00,2025-04-09 17:00,In-Progress,Avalanche,No
+MSHN_141,Kargil Base,Siachen Post 4,Robotic Mule,2025-04-06 02:00,2025-04-07 18:00,Delayed,Snowfall,No
+MSHN_142,Leh Base,Siachen Post 6,Robotic Mule,2025-04-11 02:00,2025-04-12 06:00,Delayed,Technical,Yes
+MSHN_143,Kargil Base,Siachen Post 1,Truck,2025-04-11 17:00,2025-04-13 10:00,Delayed,Snowfall,No
+MSHN_144,Leh Base,Siachen Post 9,Drone,2025-04-01 07:00,2025-04-01 20:00,Delayed,Technical,Yes
+MSHN_145,Leh Base,Siachen Post 8,Drone,2025-04-08 05:00,2025-04-10 00:00,In-Progress,Avalanche,Yes
+MSHN_146,Kargil Base,Siachen Post 9,Drone,2025-04-07 18:00,2025-04-09 14:00,In-Progress,Avalanche,Yes
+MSHN_147,Drass Base,Siachen Post 2,Truck,2025-04-07 03:00,2025-04-07 21:00,In-Progress,Snowfall,No
+MSHN_148,Leh Base,Siachen Post 2,Drone,2025-04-04 13:00,2025-04-06 13:00,Delayed,Snowfall,Yes
+MSHN_149,Kargil Base,Siachen Post 1,Drone,2025-04-08 15:00,2025-04-09 18:00,Delayed,Snowfall,Yes
+MSHN_150,Drass Base,Siachen Post 7,Robotic Mule,2025-04-04 20:00,2025-04-05 10:00,Completed,None,Yes
