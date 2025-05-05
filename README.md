@@ -1,7 +1,7 @@
-# Operation Suraksha: Data-Driven Logistics Optimization for the Indian Army
+# Indian Army Mission Logistics and Weather Impact Analysis Using Python + MySQL + Tableau
 
 ## 🚀 Project Overview
-**Operation Suraksha** is a data analytics project focused on improving the **logistics and supply chain efficiency** of the Indian Army, especially in **difficult terrains like Ladakh**.  
+**Indian Army Mission Logistics and Weather Impact Analysis** is a data analytics project focused on improving the **logistics and supply chain efficiency** of the Indian Army, especially in **difficult terrains like Ladakh**.  
 By analyzing transport missions, weather conditions, and drone/mule operational data, the project aims to **identify delays, optimize critical supply missions**, and **enhance operational readiness**.
 
 Due to national security and confidentiality, **dummy data** has been generated to simulate real-world logistics operations.
@@ -10,8 +10,8 @@ Due to national security and confidentiality, **dummy data** has been generated 
 
 ## 📦 Tech Stack Used
 - **Python (Pandas)** — Data cleaning and preprocessing
-- **MySQL/SQLite** — Database creation and management
-- **Power BI** — Interactive dashboard visualization
+- **MySQL** — Database creation and management
+- **Tableau** — Interactive dashboard visualization
 
 ---
 
@@ -110,5 +110,5 @@ No license is attached. All data used is dummy data created for simulation only.
 ## 🙏 Acknowledgements
 Inspired by the Indian Army's unwavering dedication to protecting India's sovereignty.
 
-Special thanks to open-source contributors and data visualization communities for providing the tools and inspiration.
+
 
