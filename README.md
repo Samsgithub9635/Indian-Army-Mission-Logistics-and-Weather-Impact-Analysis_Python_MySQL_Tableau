@@ -9,26 +9,9 @@ Due to national security and confidentiality, **dummy data** has been generated 
 ---
 
 ## 📦 Tech Stack Used
-- **Python (Pandas)** — Data cleaning and preprocessing
-- **MySQL** — Database creation and management
-- **Tableau** — Interactive dashboard visualization
-
----
-
-## 🗂️ Project Structure
-OperationSuraksha/
-│
-├── README.md                  # Project documentation (this file)
-├── logistics.csv         # Logistics mission data (dummy)
-├── weather.csv           # Weather conditions data (dummy)
-├── drone_ops.csv         # Drone/Mule operations data (dummy)
-│
-├── preprocessing.ipynb           # Python script for data cleaning and preprocessing
-├── ArmyLogisticsDB.sql         # SQL script to create and populate the database
-│
-├── OperationSuraksha.pbix      # Power BI dashboard file (interactive report)
-
-
+- **Python (Pandas)** — Exploratory Data Analysis
+- **MySQL** — Database creation, management and to run quries and find insights
+- **HTML, CSS & JavaScript** — Interactive dashboard visualization
 
 ---
 
@@ -42,15 +25,6 @@ OperationSuraksha/
 
 ---
 
-## 📈 Power BI Dashboard Highlights
-- 📌 **Mission Status** KPIs: Completed, Delayed, Critical Missions
-- 📌 **Delay Reasons** Analysis: Weather Impact, Mechanical Failures
-- 📌 **Transport Mode** Utilization Trends
-- 📌 **Weather Conditions** over Time (Snowfall, Visibility, Windspeed)
-- 📌 **Drone and Mule Performance** Metrics
-- 📌 **Geographical Flow** Map (Optional)
-
----
 
 ## 📚 Data Description
 > **Important Note**:  
@@ -65,23 +39,14 @@ Original Indian Army logistics and weather data could not be used due to **confi
 
 ---
 
-## 🛠️ How to Run the Project
-Clone the repository:
-   git clone https://github.com/your-username/OperationSuraksha.git
+## 🛠️ How to view live interactive dashboard dashboard
+step1: Visit--> ![Dashboard website](https://indian-army-mission-logistics-and-weather-impact-dh7nx7mvp.vercel.app/)
+step2: Click on "Render Dashboard" button
+![click Render Dashboard](https://github.com/Samsgithub9635/Indian-Army-Mission-Logistics-and-Weather-Impact-Analysis_Python_MySQL_Tableau/blob/main/index%20page%20.png)
 
-Setup environment:
-
-   Install Python packages: pandas
-
-   Setup MySQL/SQLite database.
-
-   Load the CSVs into your database.
-
-   Open Power BI Desktop and connect to your database or directly load CSVs.
-
-   Load the provided .pbix file.
-
-   Analyze the dashboards and derive insights!
+## 📊 Dashboard
+![Dashboard1](https://github.com/Samsgithub9635/Indian-Army-Mission-Logistics-and-Weather-Impact-Analysis_Python_MySQL_Tableau/blob/main/Dashboard1.png)
+![Dashboard2](https://github.com/Samsgithub9635/Indian-Army-Mission-Logistics-and-Weather-Impact-Analysis_Python_MySQL_Tableau/blob/main/Dashboard2.png)
 
 ## 🧠 Insights Derived
 Extreme weather (heavy snowfall, low visibility) significantly delays drone deliveries.
