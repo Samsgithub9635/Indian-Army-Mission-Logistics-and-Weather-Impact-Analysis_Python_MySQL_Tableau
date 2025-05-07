@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Army Logistics Dashboard</title>
+  <script src="https://cdn.plot.ly/plotly-2.12.1.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #d4c98a;
+      /* Muddy yellow army theme */
+      background-image: url("https://t4.ftcdn.net/jpg/03/00/10/53/360_F_300105377_HCATucWPTbTFwuEO56xSUBkB83ZriZuq.jpg");
+      background-size: cover;
+      background-repeat: repeat;
+      background-attachment: fixed;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 20px;
+      font-weight: bold;
+      background-color: rgba(244, 241, 187, 0.6);
+      padding: 10px;
+      border-radius: 8px;
+    }
+
+    .upload-section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .upload-section label {
+      background: #f4f1bb;
+      border: 1px solid #8b8b6d;
+      padding: 10px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.2s ease-in-out;
+      color: #2f3e1b;
+      font-weight: bold;
+    }
+
+    .upload-section label:hover {
+      background-color: #d6ce87;
+    }
+
+    input[type="file"] {
+      display: none;
+    }
+
+    .center-btn {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 30px;
+    }
+
+    button {
+      background-color: #556b2f;
+      color: white;
+      border: none;
+      padding: 10px 25px;
+      font-size: 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #445522;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      /* 3 charts in a row */
+      gap: 25px;
+      padding: 20px;
+    }
+
+
+    .chart {
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 10px;
+      padding: 15px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+      border: 2px solid #a9a36b;
+    }
+
+    @media (max-width: 600px) {
+      .grid-container {
+        padding: 0 5%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Army Logistics Monitoring Dashboard</h1>
+
+  <div class="upload-section">
+    <label>📦 Logistics JSON
+      <input type="file" id="logisticsUpload">
+    </label>
+    <label>☁️ Weather JSON
+      <input type="file" id="weatherUpload">
+    </label>
+    <label>🛸 Drone JSON
+      <input type="file" id="droneUpload">
+    </label>
+  </div>
+
+  <div class="center-btn">
+    <button onclick="renderDashboard()">Render Dashboard</button>
+  </div>
+
+  <div class="grid-container">
+    <div class="chart" id="chart1"></div>
+    <div class="chart" id="chart2"></div>
+    <div class="chart" id="chart3"></div>
+    <div class="chart" id="chart4"></div>
+    <div class="chart" id="chart5"></div>
+    <div class="chart" id="chart6"></div>
+    <div class="chart" id="chart7"></div>
+    <div class="chart" id="chart8"></div>
+    <div class="chart" id="chart9"></div>
+  </div>
+
+  <script>
+    function renderDashboard() {
+      Plotly.newPlot('chart1', [{
+        labels: ['Active', 'Maintenance', 'Lost'],
+        values: [30, 10, 5],
+        type: 'pie',
+        hole: .4
+      }], {
+        title: 'Drone Status by Category'
+      });
+
+      Plotly.newPlot('chart2', [{
+        x: ['Truck', 'Helicopter', 'Drone'],
+        y: [100, 75, 150],
+        type: 'bar',
+        marker: { color: '#2ecc71' }
+      }], {
+        title: 'Transport Mode Usage'
+      });
+
+      Plotly.newPlot('chart3', [{
+        x: ['2024-01', '2024-02', '2024-03'],
+        y: [15, 22, 35],
+        type: 'scatter',
+        mode: 'lines+markers',
+        marker: { color: '#9b59b6' }
+      }], {
+        title: 'Missions Over Time'
+      });
+
+      Plotly.newPlot('chart4', [{
+        r: [3, 4, 2, 5],
+        theta: ['Snowfall', 'Wind Speed', 'Visibility', 'Temperature'],
+        type: 'scatterpolar',
+        fill: 'toself'
+      }], {
+        title: 'Weather Risk Index',
+        polar: { radialaxis: { visible: true } }
+      });
+
+      Plotly.newPlot('chart5', [{
+        type: "bar",
+        x: ["Alpha", "Bravo", "Charlie"],
+        y: [90, 85, 70],
+        marker: { color: '#e67e22' }
+      }], {
+        title: 'Battery % by Drone Model'
+      });
+
+      Plotly.newPlot('chart6', [{
+        x: ["Region A", "Region B", "Region C"],
+        y: [5, 10, 8],
+        type: 'bar',
+        marker: { color: '#1abc9c' }
+      }], {
+        title: 'Mission Count by Region'
+      });
+
+      Plotly.newPlot('chart7', [{
+        type: "bar",
+        x: ["Morning", "Afternoon", "Night"],
+        y: [12, 19, 7],
+        marker: { color: '#34495e' }
+      }], {
+        title: 'Mission Time Distribution'
+      });
+
+      Plotly.newPlot('chart8', [{
+        z: [[8, 6, 7], [6, 7, 5], [7, 8, 6]],
+        x: ['Region A', 'Region B', 'Region C'],
+        y: ['Fuel', 'Ammo', 'Rations'],
+        type: 'heatmap',
+        colorscale: 'YlGnBu'
+      }], {
+        title: 'Supplies Heatmap'
+      });
+
+      Plotly.newPlot('chart9', [{
+        x: ['2024-01', '2024-02', '2024-03'],
+        y: [100, 200, 150],
+        type: 'bar'
+      }, {
+        x: ['2024-01', '2024-02', '2024-03'],
+        y: [80, 160, 130],
+        type: 'bar'
+      }], {
+        barmode: 'group',
+        title: 'Fuel vs Ammo Usage'
+      });
+    }
+  </script>
+</body>
+
+</html>

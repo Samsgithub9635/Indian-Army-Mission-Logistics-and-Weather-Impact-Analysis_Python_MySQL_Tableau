@@ -1,0 +1,1202 @@
+[
+  {
+    "Date": "2025-04-01",
+    "Location": "Tangtse",
+    "Temperature_C": -13,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1499,
+    "Wind_Speed_kmph": 40
+  },
+  {
+    "Date": "2025-04-02",
+    "Location": "Rezang La",
+    "Temperature_C": -7,
+    "Snowfall_cm": 5,
+    "Visibility_m": 575,
+    "Wind_Speed_kmph": 69
+  },
+  {
+    "Date": "2025-04-03",
+    "Location": "Chang La",
+    "Temperature_C": -11,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1465,
+    "Wind_Speed_kmph": 11
+  },
+  {
+    "Date": "2025-04-04",
+    "Location": "Rezang La",
+    "Temperature_C": -16,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1219,
+    "Wind_Speed_kmph": 30
+  },
+  {
+    "Date": "2025-04-05",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -11,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1303,
+    "Wind_Speed_kmph": 48
+  },
+  {
+    "Date": "2025-04-06",
+    "Location": "Rezang La",
+    "Temperature_C": -17,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1831,
+    "Wind_Speed_kmph": 48
+  },
+  {
+    "Date": "2025-04-07",
+    "Location": "Nubra Valley",
+    "Temperature_C": -13,
+    "Snowfall_cm": 25,
+    "Visibility_m": 318,
+    "Wind_Speed_kmph": 40
+  },
+  {
+    "Date": "2025-04-08",
+    "Location": "Rezang La",
+    "Temperature_C": -7,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1277,
+    "Wind_Speed_kmph": 47
+  },
+  {
+    "Date": "2025-04-09",
+    "Location": "Chang La",
+    "Temperature_C": -25,
+    "Snowfall_cm": 50,
+    "Visibility_m": 910,
+    "Wind_Speed_kmph": 45
+  },
+  {
+    "Date": "2025-04-10",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -7,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1693,
+    "Wind_Speed_kmph": 16
+  },
+  {
+    "Date": "2025-04-11",
+    "Location": "Tangtse",
+    "Temperature_C": -10,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1688,
+    "Wind_Speed_kmph": 39
+  },
+  {
+    "Date": "2025-04-12",
+    "Location": "Tangtse",
+    "Temperature_C": -14,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1403,
+    "Wind_Speed_kmph": 34
+  },
+  {
+    "Date": "2025-04-13",
+    "Location": "Tangtse",
+    "Temperature_C": -17,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1647,
+    "Wind_Speed_kmph": 27
+  },
+  {
+    "Date": "2025-04-14",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -5,
+    "Snowfall_cm": 50,
+    "Visibility_m": 180,
+    "Wind_Speed_kmph": 49
+  },
+  {
+    "Date": "2025-04-15",
+    "Location": "Rezang La",
+    "Temperature_C": -24,
+    "Snowfall_cm": 30,
+    "Visibility_m": 847,
+    "Wind_Speed_kmph": 26
+  },
+  {
+    "Date": "2025-04-16",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -16,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1630,
+    "Wind_Speed_kmph": 63
+  },
+  {
+    "Date": "2025-04-17",
+    "Location": "Nubra Valley",
+    "Temperature_C": -19,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1710,
+    "Wind_Speed_kmph": 79
+  },
+  {
+    "Date": "2025-04-18",
+    "Location": "Chang La",
+    "Temperature_C": -9,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1970,
+    "Wind_Speed_kmph": 44
+  },
+  {
+    "Date": "2025-04-19",
+    "Location": "Nubra Valley",
+    "Temperature_C": -17,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1751,
+    "Wind_Speed_kmph": 47
+  },
+  {
+    "Date": "2025-04-20",
+    "Location": "Chang La",
+    "Temperature_C": -22,
+    "Snowfall_cm": 25,
+    "Visibility_m": 254,
+    "Wind_Speed_kmph": 28
+  },
+  {
+    "Date": "2025-04-21",
+    "Location": "Nubra Valley",
+    "Temperature_C": -13,
+    "Snowfall_cm": 30,
+    "Visibility_m": 849,
+    "Wind_Speed_kmph": 21
+  },
+  {
+    "Date": "2025-04-22",
+    "Location": "Rezang La",
+    "Temperature_C": -25,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1198,
+    "Wind_Speed_kmph": 25
+  },
+  {
+    "Date": "2025-04-23",
+    "Location": "Rezang La",
+    "Temperature_C": -14,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1633,
+    "Wind_Speed_kmph": 43
+  },
+  {
+    "Date": "2025-04-24",
+    "Location": "Tangtse",
+    "Temperature_C": -13,
+    "Snowfall_cm": 50,
+    "Visibility_m": 860,
+    "Wind_Speed_kmph": 23
+  },
+  {
+    "Date": "2025-04-25",
+    "Location": "Nubra Valley",
+    "Temperature_C": -10,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1368,
+    "Wind_Speed_kmph": 51
+  },
+  {
+    "Date": "2025-04-26",
+    "Location": "Tangtse",
+    "Temperature_C": -18,
+    "Snowfall_cm": 50,
+    "Visibility_m": 229,
+    "Wind_Speed_kmph": 69
+  },
+  {
+    "Date": "2025-04-27",
+    "Location": "Chang La",
+    "Temperature_C": -5,
+    "Snowfall_cm": 25,
+    "Visibility_m": 338,
+    "Wind_Speed_kmph": 27
+  },
+  {
+    "Date": "2025-04-28",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -24,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1108,
+    "Wind_Speed_kmph": 24
+  },
+  {
+    "Date": "2025-04-29",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -18,
+    "Snowfall_cm": 30,
+    "Visibility_m": 377,
+    "Wind_Speed_kmph": 59
+  },
+  {
+    "Date": "2025-04-30",
+    "Location": "Rezang La",
+    "Temperature_C": -14,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1621,
+    "Wind_Speed_kmph": 79
+  },
+  {
+    "Date": "2025-04-01",
+    "Location": "Rezang La",
+    "Temperature_C": -7,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1588,
+    "Wind_Speed_kmph": 29
+  },
+  {
+    "Date": "2025-04-02",
+    "Location": "Rezang La",
+    "Temperature_C": -5,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1807,
+    "Wind_Speed_kmph": 72
+  },
+  {
+    "Date": "2025-04-03",
+    "Location": "Tangtse",
+    "Temperature_C": -12,
+    "Snowfall_cm": 10,
+    "Visibility_m": 167,
+    "Wind_Speed_kmph": 57
+  },
+  {
+    "Date": "2025-04-04",
+    "Location": "Nubra Valley",
+    "Temperature_C": -11,
+    "Snowfall_cm": 25,
+    "Visibility_m": 583,
+    "Wind_Speed_kmph": 56
+  },
+  {
+    "Date": "2025-04-05",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -14,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1946,
+    "Wind_Speed_kmph": 55
+  },
+  {
+    "Date": "2025-04-06",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -13,
+    "Snowfall_cm": 10,
+    "Visibility_m": 488,
+    "Wind_Speed_kmph": 25
+  },
+  {
+    "Date": "2025-04-07",
+    "Location": "Rezang La",
+    "Temperature_C": -23,
+    "Snowfall_cm": 50,
+    "Visibility_m": 534,
+    "Wind_Speed_kmph": 12
+  },
+  {
+    "Date": "2025-04-08",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -15,
+    "Snowfall_cm": 5,
+    "Visibility_m": 357,
+    "Wind_Speed_kmph": 36
+  },
+  {
+    "Date": "2025-04-09",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -8,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1300,
+    "Wind_Speed_kmph": 37
+  },
+  {
+    "Date": "2025-04-10",
+    "Location": "Nubra Valley",
+    "Temperature_C": -15,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1715,
+    "Wind_Speed_kmph": 10
+  },
+  {
+    "Date": "2025-04-11",
+    "Location": "Chang La",
+    "Temperature_C": -21,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1206,
+    "Wind_Speed_kmph": 42
+  },
+  {
+    "Date": "2025-04-12",
+    "Location": "Nubra Valley",
+    "Temperature_C": -22,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1874,
+    "Wind_Speed_kmph": 13
+  },
+  {
+    "Date": "2025-04-13",
+    "Location": "Nubra Valley",
+    "Temperature_C": -25,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1717,
+    "Wind_Speed_kmph": 40
+  },
+  {
+    "Date": "2025-04-14",
+    "Location": "Tangtse",
+    "Temperature_C": -15,
+    "Snowfall_cm": 0,
+    "Visibility_m": 456,
+    "Wind_Speed_kmph": 43
+  },
+  {
+    "Date": "2025-04-15",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -21,
+    "Snowfall_cm": 50,
+    "Visibility_m": 962,
+    "Wind_Speed_kmph": 77
+  },
+  {
+    "Date": "2025-04-16",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -23,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1018,
+    "Wind_Speed_kmph": 56
+  },
+  {
+    "Date": "2025-04-17",
+    "Location": "Tangtse",
+    "Temperature_C": -7,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1025,
+    "Wind_Speed_kmph": 74
+  },
+  {
+    "Date": "2025-04-18",
+    "Location": "Nubra Valley",
+    "Temperature_C": -6,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1589,
+    "Wind_Speed_kmph": 76
+  },
+  {
+    "Date": "2025-04-19",
+    "Location": "Chang La",
+    "Temperature_C": -11,
+    "Snowfall_cm": 50,
+    "Visibility_m": 163,
+    "Wind_Speed_kmph": 17
+  },
+  {
+    "Date": "2025-04-20",
+    "Location": "Rezang La",
+    "Temperature_C": -13,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1505,
+    "Wind_Speed_kmph": 23
+  },
+  {
+    "Date": "2025-04-21",
+    "Location": "Rezang La",
+    "Temperature_C": -11,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1941,
+    "Wind_Speed_kmph": 20
+  },
+  {
+    "Date": "2025-04-22",
+    "Location": "Chang La",
+    "Temperature_C": -6,
+    "Snowfall_cm": 5,
+    "Visibility_m": 234,
+    "Wind_Speed_kmph": 26
+  },
+  {
+    "Date": "2025-04-23",
+    "Location": "Chang La",
+    "Temperature_C": -6,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1298,
+    "Wind_Speed_kmph": 80
+  },
+  {
+    "Date": "2025-04-24",
+    "Location": "Chang La",
+    "Temperature_C": -13,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1186,
+    "Wind_Speed_kmph": 47
+  },
+  {
+    "Date": "2025-04-25",
+    "Location": "Rezang La",
+    "Temperature_C": -9,
+    "Snowfall_cm": 30,
+    "Visibility_m": 981,
+    "Wind_Speed_kmph": 22
+  },
+  {
+    "Date": "2025-04-26",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -5,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1897,
+    "Wind_Speed_kmph": 80
+  },
+  {
+    "Date": "2025-04-27",
+    "Location": "Nubra Valley",
+    "Temperature_C": -12,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1918,
+    "Wind_Speed_kmph": 39
+  },
+  {
+    "Date": "2025-04-28",
+    "Location": "Rezang La",
+    "Temperature_C": -15,
+    "Snowfall_cm": 25,
+    "Visibility_m": 916,
+    "Wind_Speed_kmph": 63
+  },
+  {
+    "Date": "2025-04-29",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -15,
+    "Snowfall_cm": 25,
+    "Visibility_m": 740,
+    "Wind_Speed_kmph": 42
+  },
+  {
+    "Date": "2025-04-30",
+    "Location": "Chang La",
+    "Temperature_C": -21,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1990,
+    "Wind_Speed_kmph": 70
+  },
+  {
+    "Date": "2025-04-01",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -23,
+    "Snowfall_cm": 0,
+    "Visibility_m": 290,
+    "Wind_Speed_kmph": 65
+  },
+  {
+    "Date": "2025-04-02",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -14,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1239,
+    "Wind_Speed_kmph": 17
+  },
+  {
+    "Date": "2025-04-03",
+    "Location": "Tangtse",
+    "Temperature_C": -8,
+    "Snowfall_cm": 30,
+    "Visibility_m": 775,
+    "Wind_Speed_kmph": 25
+  },
+  {
+    "Date": "2025-04-04",
+    "Location": "Rezang La",
+    "Temperature_C": -14,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1636,
+    "Wind_Speed_kmph": 64
+  },
+  {
+    "Date": "2025-04-05",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -16,
+    "Snowfall_cm": 30,
+    "Visibility_m": 739,
+    "Wind_Speed_kmph": 55
+  },
+  {
+    "Date": "2025-04-06",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -7,
+    "Snowfall_cm": 30,
+    "Visibility_m": 535,
+    "Wind_Speed_kmph": 29
+  },
+  {
+    "Date": "2025-04-07",
+    "Location": "Rezang La",
+    "Temperature_C": -18,
+    "Snowfall_cm": 0,
+    "Visibility_m": 817,
+    "Wind_Speed_kmph": 57
+  },
+  {
+    "Date": "2025-04-08",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -17,
+    "Snowfall_cm": 30,
+    "Visibility_m": 563,
+    "Wind_Speed_kmph": 64
+  },
+  {
+    "Date": "2025-04-09",
+    "Location": "Tangtse",
+    "Temperature_C": -6,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1482,
+    "Wind_Speed_kmph": 13
+  },
+  {
+    "Date": "2025-04-10",
+    "Location": "Tangtse",
+    "Temperature_C": -17,
+    "Snowfall_cm": 0,
+    "Visibility_m": 469,
+    "Wind_Speed_kmph": 44
+  },
+  {
+    "Date": "2025-04-11",
+    "Location": "Chang La",
+    "Temperature_C": -15,
+    "Snowfall_cm": 10,
+    "Visibility_m": 112,
+    "Wind_Speed_kmph": 33
+  },
+  {
+    "Date": "2025-04-12",
+    "Location": "Nubra Valley",
+    "Temperature_C": -7,
+    "Snowfall_cm": 50,
+    "Visibility_m": 920,
+    "Wind_Speed_kmph": 18
+  },
+  {
+    "Date": "2025-04-13",
+    "Location": "Nubra Valley",
+    "Temperature_C": -5,
+    "Snowfall_cm": 0,
+    "Visibility_m": 287,
+    "Wind_Speed_kmph": 77
+  },
+  {
+    "Date": "2025-04-14",
+    "Location": "Nubra Valley",
+    "Temperature_C": -13,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1029,
+    "Wind_Speed_kmph": 53
+  },
+  {
+    "Date": "2025-04-15",
+    "Location": "Nubra Valley",
+    "Temperature_C": -14,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1577,
+    "Wind_Speed_kmph": 51
+  },
+  {
+    "Date": "2025-04-16",
+    "Location": "Tangtse",
+    "Temperature_C": -6,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1909,
+    "Wind_Speed_kmph": 16
+  },
+  {
+    "Date": "2025-04-17",
+    "Location": "Nubra Valley",
+    "Temperature_C": -20,
+    "Snowfall_cm": 30,
+    "Visibility_m": 201,
+    "Wind_Speed_kmph": 20
+  },
+  {
+    "Date": "2025-04-18",
+    "Location": "Chang La",
+    "Temperature_C": -11,
+    "Snowfall_cm": 50,
+    "Visibility_m": 968,
+    "Wind_Speed_kmph": 72
+  },
+  {
+    "Date": "2025-04-19",
+    "Location": "Tangtse",
+    "Temperature_C": -11,
+    "Snowfall_cm": 25,
+    "Visibility_m": 659,
+    "Wind_Speed_kmph": 37
+  },
+  {
+    "Date": "2025-04-20",
+    "Location": "Tangtse",
+    "Temperature_C": -22,
+    "Snowfall_cm": 10,
+    "Visibility_m": 980,
+    "Wind_Speed_kmph": 24
+  },
+  {
+    "Date": "2025-04-21",
+    "Location": "Chang La",
+    "Temperature_C": -7,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1179,
+    "Wind_Speed_kmph": 49
+  },
+  {
+    "Date": "2025-04-22",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -18,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1327,
+    "Wind_Speed_kmph": 17
+  },
+  {
+    "Date": "2025-04-23",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -19,
+    "Snowfall_cm": 10,
+    "Visibility_m": 532,
+    "Wind_Speed_kmph": 27
+  },
+  {
+    "Date": "2025-04-24",
+    "Location": "Chang La",
+    "Temperature_C": -16,
+    "Snowfall_cm": 10,
+    "Visibility_m": 345,
+    "Wind_Speed_kmph": 10
+  },
+  {
+    "Date": "2025-04-25",
+    "Location": "Rezang La",
+    "Temperature_C": -12,
+    "Snowfall_cm": 5,
+    "Visibility_m": 364,
+    "Wind_Speed_kmph": 58
+  },
+  {
+    "Date": "2025-04-26",
+    "Location": "Tangtse",
+    "Temperature_C": -18,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1244,
+    "Wind_Speed_kmph": 55
+  },
+  {
+    "Date": "2025-04-27",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -13,
+    "Snowfall_cm": 50,
+    "Visibility_m": 186,
+    "Wind_Speed_kmph": 65
+  },
+  {
+    "Date": "2025-04-28",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -11,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1865,
+    "Wind_Speed_kmph": 50
+  },
+  {
+    "Date": "2025-04-29",
+    "Location": "Tangtse",
+    "Temperature_C": -12,
+    "Snowfall_cm": 30,
+    "Visibility_m": 928,
+    "Wind_Speed_kmph": 63
+  },
+  {
+    "Date": "2025-04-30",
+    "Location": "Chang La",
+    "Temperature_C": -22,
+    "Snowfall_cm": 25,
+    "Visibility_m": 142,
+    "Wind_Speed_kmph": 51
+  },
+  {
+    "Date": "2025-04-01",
+    "Location": "Nubra Valley",
+    "Temperature_C": -6,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1803,
+    "Wind_Speed_kmph": 56
+  },
+  {
+    "Date": "2025-04-02",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -12,
+    "Snowfall_cm": 0,
+    "Visibility_m": 598,
+    "Wind_Speed_kmph": 65
+  },
+  {
+    "Date": "2025-04-03",
+    "Location": "Tangtse",
+    "Temperature_C": -13,
+    "Snowfall_cm": 30,
+    "Visibility_m": 261,
+    "Wind_Speed_kmph": 60
+  },
+  {
+    "Date": "2025-04-04",
+    "Location": "Chang La",
+    "Temperature_C": -15,
+    "Snowfall_cm": 5,
+    "Visibility_m": 782,
+    "Wind_Speed_kmph": 31
+  },
+  {
+    "Date": "2025-04-05",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -9,
+    "Snowfall_cm": 50,
+    "Visibility_m": 333,
+    "Wind_Speed_kmph": 77
+  },
+  {
+    "Date": "2025-04-06",
+    "Location": "Tangtse",
+    "Temperature_C": -19,
+    "Snowfall_cm": 10,
+    "Visibility_m": 819,
+    "Wind_Speed_kmph": 28
+  },
+  {
+    "Date": "2025-04-07",
+    "Location": "Nubra Valley",
+    "Temperature_C": -22,
+    "Snowfall_cm": 5,
+    "Visibility_m": 624,
+    "Wind_Speed_kmph": 35
+  },
+  {
+    "Date": "2025-04-08",
+    "Location": "Nubra Valley",
+    "Temperature_C": -6,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1656,
+    "Wind_Speed_kmph": 19
+  },
+  {
+    "Date": "2025-04-09",
+    "Location": "Nubra Valley",
+    "Temperature_C": -5,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1050,
+    "Wind_Speed_kmph": 67
+  },
+  {
+    "Date": "2025-04-10",
+    "Location": "Tangtse",
+    "Temperature_C": -5,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1379,
+    "Wind_Speed_kmph": 51
+  },
+  {
+    "Date": "2025-04-11",
+    "Location": "Chang La",
+    "Temperature_C": -21,
+    "Snowfall_cm": 25,
+    "Visibility_m": 239,
+    "Wind_Speed_kmph": 70
+  },
+  {
+    "Date": "2025-04-12",
+    "Location": "Rezang La",
+    "Temperature_C": -5,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1730,
+    "Wind_Speed_kmph": 45
+  },
+  {
+    "Date": "2025-04-13",
+    "Location": "Tangtse",
+    "Temperature_C": -24,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1139,
+    "Wind_Speed_kmph": 19
+  },
+  {
+    "Date": "2025-04-14",
+    "Location": "Chang La",
+    "Temperature_C": -11,
+    "Snowfall_cm": 25,
+    "Visibility_m": 177,
+    "Wind_Speed_kmph": 17
+  },
+  {
+    "Date": "2025-04-15",
+    "Location": "Chang La",
+    "Temperature_C": -16,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1420,
+    "Wind_Speed_kmph": 21
+  },
+  {
+    "Date": "2025-04-16",
+    "Location": "Tangtse",
+    "Temperature_C": -6,
+    "Snowfall_cm": 30,
+    "Visibility_m": 887,
+    "Wind_Speed_kmph": 69
+  },
+  {
+    "Date": "2025-04-17",
+    "Location": "Tangtse",
+    "Temperature_C": -8,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1934,
+    "Wind_Speed_kmph": 15
+  },
+  {
+    "Date": "2025-04-18",
+    "Location": "Rezang La",
+    "Temperature_C": -7,
+    "Snowfall_cm": 50,
+    "Visibility_m": 485,
+    "Wind_Speed_kmph": 51
+  },
+  {
+    "Date": "2025-04-19",
+    "Location": "Tangtse",
+    "Temperature_C": -10,
+    "Snowfall_cm": 30,
+    "Visibility_m": 408,
+    "Wind_Speed_kmph": 17
+  },
+  {
+    "Date": "2025-04-20",
+    "Location": "Rezang La",
+    "Temperature_C": -22,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1562,
+    "Wind_Speed_kmph": 20
+  },
+  {
+    "Date": "2025-04-21",
+    "Location": "Tangtse",
+    "Temperature_C": -5,
+    "Snowfall_cm": 5,
+    "Visibility_m": 180,
+    "Wind_Speed_kmph": 41
+  },
+  {
+    "Date": "2025-04-22",
+    "Location": "Rezang La",
+    "Temperature_C": -11,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1170,
+    "Wind_Speed_kmph": 30
+  },
+  {
+    "Date": "2025-04-23",
+    "Location": "Chang La",
+    "Temperature_C": -14,
+    "Snowfall_cm": 10,
+    "Visibility_m": 893,
+    "Wind_Speed_kmph": 62
+  },
+  {
+    "Date": "2025-04-24",
+    "Location": "Chang La",
+    "Temperature_C": -6,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1716,
+    "Wind_Speed_kmph": 52
+  },
+  {
+    "Date": "2025-04-25",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -15,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1242,
+    "Wind_Speed_kmph": 59
+  },
+  {
+    "Date": "2025-04-26",
+    "Location": "Chang La",
+    "Temperature_C": -17,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1844,
+    "Wind_Speed_kmph": 29
+  },
+  {
+    "Date": "2025-04-27",
+    "Location": "Chang La",
+    "Temperature_C": -23,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1459,
+    "Wind_Speed_kmph": 28
+  },
+  {
+    "Date": "2025-04-28",
+    "Location": "Chang La",
+    "Temperature_C": -16,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1530,
+    "Wind_Speed_kmph": 60
+  },
+  {
+    "Date": "2025-04-29",
+    "Location": "Nubra Valley",
+    "Temperature_C": -6,
+    "Snowfall_cm": 50,
+    "Visibility_m": 273,
+    "Wind_Speed_kmph": 49
+  },
+  {
+    "Date": "2025-04-30",
+    "Location": "Tangtse",
+    "Temperature_C": -13,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1721,
+    "Wind_Speed_kmph": 52
+  },
+  {
+    "Date": "2025-04-01",
+    "Location": "Nubra Valley",
+    "Temperature_C": -9,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1423,
+    "Wind_Speed_kmph": 64
+  },
+  {
+    "Date": "2025-04-02",
+    "Location": "Tangtse",
+    "Temperature_C": -14,
+    "Snowfall_cm": 0,
+    "Visibility_m": 842,
+    "Wind_Speed_kmph": 49
+  },
+  {
+    "Date": "2025-04-03",
+    "Location": "Nubra Valley",
+    "Temperature_C": -19,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1669,
+    "Wind_Speed_kmph": 72
+  },
+  {
+    "Date": "2025-04-04",
+    "Location": "Nubra Valley",
+    "Temperature_C": -18,
+    "Snowfall_cm": 5,
+    "Visibility_m": 417,
+    "Wind_Speed_kmph": 19
+  },
+  {
+    "Date": "2025-04-05",
+    "Location": "Chang La",
+    "Temperature_C": -22,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1678,
+    "Wind_Speed_kmph": 79
+  },
+  {
+    "Date": "2025-04-06",
+    "Location": "Tangtse",
+    "Temperature_C": -24,
+    "Snowfall_cm": 50,
+    "Visibility_m": 789,
+    "Wind_Speed_kmph": 26
+  },
+  {
+    "Date": "2025-04-07",
+    "Location": "Tangtse",
+    "Temperature_C": -13,
+    "Snowfall_cm": 5,
+    "Visibility_m": 432,
+    "Wind_Speed_kmph": 33
+  },
+  {
+    "Date": "2025-04-08",
+    "Location": "Tangtse",
+    "Temperature_C": -20,
+    "Snowfall_cm": 50,
+    "Visibility_m": 996,
+    "Wind_Speed_kmph": 15
+  },
+  {
+    "Date": "2025-04-09",
+    "Location": "Rezang La",
+    "Temperature_C": -14,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1573,
+    "Wind_Speed_kmph": 40
+  },
+  {
+    "Date": "2025-04-10",
+    "Location": "Rezang La",
+    "Temperature_C": -6,
+    "Snowfall_cm": 10,
+    "Visibility_m": 1640,
+    "Wind_Speed_kmph": 67
+  },
+  {
+    "Date": "2025-04-11",
+    "Location": "Nubra Valley",
+    "Temperature_C": -8,
+    "Snowfall_cm": 5,
+    "Visibility_m": 733,
+    "Wind_Speed_kmph": 70
+  },
+  {
+    "Date": "2025-04-12",
+    "Location": "Nubra Valley",
+    "Temperature_C": -14,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1268,
+    "Wind_Speed_kmph": 66
+  },
+  {
+    "Date": "2025-04-13",
+    "Location": "Rezang La",
+    "Temperature_C": -16,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1129,
+    "Wind_Speed_kmph": 77
+  },
+  {
+    "Date": "2025-04-14",
+    "Location": "Rezang La",
+    "Temperature_C": -20,
+    "Snowfall_cm": 5,
+    "Visibility_m": 1740,
+    "Wind_Speed_kmph": 27
+  },
+  {
+    "Date": "2025-04-15",
+    "Location": "Chang La",
+    "Temperature_C": -24,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1084,
+    "Wind_Speed_kmph": 57
+  },
+  {
+    "Date": "2025-04-16",
+    "Location": "Tangtse",
+    "Temperature_C": -22,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1832,
+    "Wind_Speed_kmph": 76
+  },
+  {
+    "Date": "2025-04-17",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -16,
+    "Snowfall_cm": 0,
+    "Visibility_m": 1662,
+    "Wind_Speed_kmph": 30
+  },
+  {
+    "Date": "2025-04-18",
+    "Location": "Chang La",
+    "Temperature_C": -11,
+    "Snowfall_cm": 30,
+    "Visibility_m": 401,
+    "Wind_Speed_kmph": 65
+  },
+  {
+    "Date": "2025-04-19",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -18,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1911,
+    "Wind_Speed_kmph": 54
+  },
+  {
+    "Date": "2025-04-20",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -12,
+    "Snowfall_cm": 0,
+    "Visibility_m": 911,
+    "Wind_Speed_kmph": 74
+  },
+  {
+    "Date": "2025-04-21",
+    "Location": "Chang La",
+    "Temperature_C": -18,
+    "Snowfall_cm": 25,
+    "Visibility_m": 267,
+    "Wind_Speed_kmph": 57
+  },
+  {
+    "Date": "2025-04-22",
+    "Location": "Nubra Valley",
+    "Temperature_C": -25,
+    "Snowfall_cm": 10,
+    "Visibility_m": 302,
+    "Wind_Speed_kmph": 52
+  },
+  {
+    "Date": "2025-04-23",
+    "Location": "Nubra Valley",
+    "Temperature_C": -21,
+    "Snowfall_cm": 0,
+    "Visibility_m": 687,
+    "Wind_Speed_kmph": 70
+  },
+  {
+    "Date": "2025-04-24",
+    "Location": "Nubra Valley",
+    "Temperature_C": -10,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1360,
+    "Wind_Speed_kmph": 10
+  },
+  {
+    "Date": "2025-04-25",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -25,
+    "Snowfall_cm": 10,
+    "Visibility_m": 541,
+    "Wind_Speed_kmph": 29
+  },
+  {
+    "Date": "2025-04-26",
+    "Location": "Tangtse",
+    "Temperature_C": -6,
+    "Snowfall_cm": 30,
+    "Visibility_m": 966,
+    "Wind_Speed_kmph": 24
+  },
+  {
+    "Date": "2025-04-27",
+    "Location": "Chang La",
+    "Temperature_C": -18,
+    "Snowfall_cm": 10,
+    "Visibility_m": 349,
+    "Wind_Speed_kmph": 16
+  },
+  {
+    "Date": "2025-04-28",
+    "Location": "Nubra Valley",
+    "Temperature_C": -12,
+    "Snowfall_cm": 50,
+    "Visibility_m": 1725,
+    "Wind_Speed_kmph": 68
+  },
+  {
+    "Date": "2025-04-29",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -22,
+    "Snowfall_cm": 25,
+    "Visibility_m": 1322,
+    "Wind_Speed_kmph": 78
+  },
+  {
+    "Date": "2025-04-30",
+    "Location": "Khardung La Pass",
+    "Temperature_C": -5,
+    "Snowfall_cm": 30,
+    "Visibility_m": 1277,
+    "Wind_Speed_kmph": 40
+  }
+]

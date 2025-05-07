@@ -1,0 +1,1352 @@
+[
+  {
+    "Delivery_ID": "DRN_001",
+    "Mode": "Drone",
+    "Battery_Used_%": 78,
+    "Payload_kg": 11,
+    "Distance_km": 5,
+    "Avg_Speed_kmph": 15.6,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_002",
+    "Mode": "Drone",
+    "Battery_Used_%": 65,
+    "Payload_kg": 13,
+    "Distance_km": 24.5,
+    "Avg_Speed_kmph": 7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_003",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 90,
+    "Payload_kg": 5,
+    "Distance_km": 17.7,
+    "Avg_Speed_kmph": 34.4,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_004",
+    "Mode": "Drone",
+    "Battery_Used_%": 82,
+    "Payload_kg": 6,
+    "Distance_km": 11.9,
+    "Avg_Speed_kmph": 27,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_005",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 68,
+    "Payload_kg": 5,
+    "Distance_km": 12,
+    "Avg_Speed_kmph": 15.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_006",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 90,
+    "Payload_kg": 15,
+    "Distance_km": 8.6,
+    "Avg_Speed_kmph": 9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_007",
+    "Mode": "Drone",
+    "Battery_Used_%": 78,
+    "Payload_kg": 8,
+    "Distance_km": 5.9,
+    "Avg_Speed_kmph": 11,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_008",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 79,
+    "Payload_kg": 13,
+    "Distance_km": 13,
+    "Avg_Speed_kmph": 29.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_009",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 62,
+    "Payload_kg": 15,
+    "Distance_km": 8.8,
+    "Avg_Speed_kmph": 15.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_010",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 77,
+    "Payload_kg": 6,
+    "Distance_km": 21,
+    "Avg_Speed_kmph": 18.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_011",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 84,
+    "Payload_kg": 10,
+    "Distance_km": 24.5,
+    "Avg_Speed_kmph": 19.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_012",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 93,
+    "Payload_kg": 9,
+    "Distance_km": 21,
+    "Avg_Speed_kmph": 26.8,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_013",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 98,
+    "Payload_kg": 7,
+    "Distance_km": 15.9,
+    "Avg_Speed_kmph": 14.6,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_014",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 78,
+    "Payload_kg": 9,
+    "Distance_km": 13.9,
+    "Avg_Speed_kmph": 26.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_015",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 82,
+    "Payload_kg": 12,
+    "Distance_km": 5.8,
+    "Avg_Speed_kmph": 31.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_016",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 77,
+    "Payload_kg": 15,
+    "Distance_km": 24.6,
+    "Avg_Speed_kmph": 33.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_017",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 83,
+    "Payload_kg": 13,
+    "Distance_km": 21,
+    "Avg_Speed_kmph": 25.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_018",
+    "Mode": "Drone",
+    "Battery_Used_%": 98,
+    "Payload_kg": 15,
+    "Distance_km": 20.6,
+    "Avg_Speed_kmph": 6,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_019",
+    "Mode": "Drone",
+    "Battery_Used_%": 83,
+    "Payload_kg": 10,
+    "Distance_km": 12.7,
+    "Avg_Speed_kmph": 22,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_020",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 83,
+    "Payload_kg": 10,
+    "Distance_km": 13.9,
+    "Avg_Speed_kmph": 7.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_021",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 85,
+    "Payload_kg": 10,
+    "Distance_km": 18,
+    "Avg_Speed_kmph": 12.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_022",
+    "Mode": "Drone",
+    "Battery_Used_%": 71,
+    "Payload_kg": 12,
+    "Distance_km": 15.4,
+    "Avg_Speed_kmph": 32.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_023",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 76,
+    "Payload_kg": 12,
+    "Distance_km": 9.3,
+    "Avg_Speed_kmph": 23.4,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_024",
+    "Mode": "Drone",
+    "Battery_Used_%": 67,
+    "Payload_kg": 7,
+    "Distance_km": 22.1,
+    "Avg_Speed_kmph": 18.6,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_025",
+    "Mode": "Drone",
+    "Battery_Used_%": 80,
+    "Payload_kg": 15,
+    "Distance_km": 11.9,
+    "Avg_Speed_kmph": 6.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_026",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 70,
+    "Payload_kg": 15,
+    "Distance_km": 8.5,
+    "Avg_Speed_kmph": 15.8,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_027",
+    "Mode": "Drone",
+    "Battery_Used_%": 72,
+    "Payload_kg": 7,
+    "Distance_km": 9.7,
+    "Avg_Speed_kmph": 19.8,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_028",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 89,
+    "Payload_kg": 13,
+    "Distance_km": 7.6,
+    "Avg_Speed_kmph": 31.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_029",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 85,
+    "Payload_kg": 12,
+    "Distance_km": 15.5,
+    "Avg_Speed_kmph": 28.1,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_030",
+    "Mode": "Drone",
+    "Battery_Used_%": 80,
+    "Payload_kg": 15,
+    "Distance_km": 6.5,
+    "Avg_Speed_kmph": 19,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_031",
+    "Mode": "Drone",
+    "Battery_Used_%": 95,
+    "Payload_kg": 15,
+    "Distance_km": 16.8,
+    "Avg_Speed_kmph": 28,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_032",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 92,
+    "Payload_kg": 5,
+    "Distance_km": 21.6,
+    "Avg_Speed_kmph": 20.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_033",
+    "Mode": "Drone",
+    "Battery_Used_%": 70,
+    "Payload_kg": 10,
+    "Distance_km": 23.7,
+    "Avg_Speed_kmph": 11.8,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_034",
+    "Mode": "Drone",
+    "Battery_Used_%": 76,
+    "Payload_kg": 8,
+    "Distance_km": 17.7,
+    "Avg_Speed_kmph": 21.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_035",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 99,
+    "Payload_kg": 13,
+    "Distance_km": 6.9,
+    "Avg_Speed_kmph": 24.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_036",
+    "Mode": "Drone",
+    "Battery_Used_%": 99,
+    "Payload_kg": 14,
+    "Distance_km": 11.8,
+    "Avg_Speed_kmph": 32.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_037",
+    "Mode": "Drone",
+    "Battery_Used_%": 65,
+    "Payload_kg": 5,
+    "Distance_km": 24,
+    "Avg_Speed_kmph": 28.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_038",
+    "Mode": "Drone",
+    "Battery_Used_%": 96,
+    "Payload_kg": 11,
+    "Distance_km": 17.4,
+    "Avg_Speed_kmph": 5.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_039",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 90,
+    "Payload_kg": 8,
+    "Distance_km": 21.1,
+    "Avg_Speed_kmph": 25.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_040",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 64,
+    "Payload_kg": 5,
+    "Distance_km": 8.2,
+    "Avg_Speed_kmph": 17.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_041",
+    "Mode": "Drone",
+    "Battery_Used_%": 81,
+    "Payload_kg": 14,
+    "Distance_km": 7.9,
+    "Avg_Speed_kmph": 30.8,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_042",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 85,
+    "Payload_kg": 7,
+    "Distance_km": 20.2,
+    "Avg_Speed_kmph": 20.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_043",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 75,
+    "Payload_kg": 12,
+    "Distance_km": 7.5,
+    "Avg_Speed_kmph": 18.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_044",
+    "Mode": "Drone",
+    "Battery_Used_%": 63,
+    "Payload_kg": 9,
+    "Distance_km": 23.9,
+    "Avg_Speed_kmph": 30.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_045",
+    "Mode": "Drone",
+    "Battery_Used_%": 70,
+    "Payload_kg": 10,
+    "Distance_km": 23.7,
+    "Avg_Speed_kmph": 26.6,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_046",
+    "Mode": "Drone",
+    "Battery_Used_%": 91,
+    "Payload_kg": 13,
+    "Distance_km": 14.3,
+    "Avg_Speed_kmph": 31.4,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_047",
+    "Mode": "Drone",
+    "Battery_Used_%": 65,
+    "Payload_kg": 11,
+    "Distance_km": 15.1,
+    "Avg_Speed_kmph": 34,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_048",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 63,
+    "Payload_kg": 5,
+    "Distance_km": 10.6,
+    "Avg_Speed_kmph": 22.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_049",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 94,
+    "Payload_kg": 5,
+    "Distance_km": 21.9,
+    "Avg_Speed_kmph": 17.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_050",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 85,
+    "Payload_kg": 10,
+    "Distance_km": 5.9,
+    "Avg_Speed_kmph": 6.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_051",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 95,
+    "Payload_kg": 9,
+    "Distance_km": 6.5,
+    "Avg_Speed_kmph": 20.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_052",
+    "Mode": "Drone",
+    "Battery_Used_%": 68,
+    "Payload_kg": 6,
+    "Distance_km": 12.9,
+    "Avg_Speed_kmph": 28.8,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_053",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 69,
+    "Payload_kg": 8,
+    "Distance_km": 17,
+    "Avg_Speed_kmph": 17,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_054",
+    "Mode": "Drone",
+    "Battery_Used_%": 62,
+    "Payload_kg": 7,
+    "Distance_km": 19.3,
+    "Avg_Speed_kmph": 29.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_055",
+    "Mode": "Drone",
+    "Battery_Used_%": 98,
+    "Payload_kg": 13,
+    "Distance_km": 7.8,
+    "Avg_Speed_kmph": 32.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_056",
+    "Mode": "Drone",
+    "Battery_Used_%": 85,
+    "Payload_kg": 14,
+    "Distance_km": 19.8,
+    "Avg_Speed_kmph": 14,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_057",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 96,
+    "Payload_kg": 9,
+    "Distance_km": 14.5,
+    "Avg_Speed_kmph": 5.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_058",
+    "Mode": "Drone",
+    "Battery_Used_%": 86,
+    "Payload_kg": 14,
+    "Distance_km": 11.2,
+    "Avg_Speed_kmph": 32,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_059",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 76,
+    "Payload_kg": 15,
+    "Distance_km": 20.7,
+    "Avg_Speed_kmph": 28.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_060",
+    "Mode": "Drone",
+    "Battery_Used_%": 97,
+    "Payload_kg": 12,
+    "Distance_km": 8.4,
+    "Avg_Speed_kmph": 23.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_061",
+    "Mode": "Drone",
+    "Battery_Used_%": 75,
+    "Payload_kg": 5,
+    "Distance_km": 16.5,
+    "Avg_Speed_kmph": 26,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_062",
+    "Mode": "Drone",
+    "Battery_Used_%": 88,
+    "Payload_kg": 10,
+    "Distance_km": 13.4,
+    "Avg_Speed_kmph": 17.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_063",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 92,
+    "Payload_kg": 14,
+    "Distance_km": 23.4,
+    "Avg_Speed_kmph": 31.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_064",
+    "Mode": "Drone",
+    "Battery_Used_%": 93,
+    "Payload_kg": 8,
+    "Distance_km": 16.2,
+    "Avg_Speed_kmph": 34.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_065",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 80,
+    "Payload_kg": 7,
+    "Distance_km": 14.2,
+    "Avg_Speed_kmph": 21,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_066",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 99,
+    "Payload_kg": 12,
+    "Distance_km": 8.8,
+    "Avg_Speed_kmph": 12.4,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_067",
+    "Mode": "Drone",
+    "Battery_Used_%": 79,
+    "Payload_kg": 9,
+    "Distance_km": 19.1,
+    "Avg_Speed_kmph": 25.7,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_068",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 90,
+    "Payload_kg": 10,
+    "Distance_km": 16.2,
+    "Avg_Speed_kmph": 33,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_069",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 67,
+    "Payload_kg": 14,
+    "Distance_km": 18.5,
+    "Avg_Speed_kmph": 16.4,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_070",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 69,
+    "Payload_kg": 9,
+    "Distance_km": 5.8,
+    "Avg_Speed_kmph": 33.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_071",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 88,
+    "Payload_kg": 15,
+    "Distance_km": 10.1,
+    "Avg_Speed_kmph": 19.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_072",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 95,
+    "Payload_kg": 9,
+    "Distance_km": 7.7,
+    "Avg_Speed_kmph": 23.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_073",
+    "Mode": "Drone",
+    "Battery_Used_%": 63,
+    "Payload_kg": 15,
+    "Distance_km": 23.1,
+    "Avg_Speed_kmph": 11.8,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_074",
+    "Mode": "Drone",
+    "Battery_Used_%": 66,
+    "Payload_kg": 11,
+    "Distance_km": 11.6,
+    "Avg_Speed_kmph": 19.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_075",
+    "Mode": "Drone",
+    "Battery_Used_%": 95,
+    "Payload_kg": 7,
+    "Distance_km": 13.1,
+    "Avg_Speed_kmph": 33.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_076",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 72,
+    "Payload_kg": 9,
+    "Distance_km": 11.4,
+    "Avg_Speed_kmph": 24.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_077",
+    "Mode": "Drone",
+    "Battery_Used_%": 94,
+    "Payload_kg": 5,
+    "Distance_km": 23.3,
+    "Avg_Speed_kmph": 10.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_078",
+    "Mode": "Drone",
+    "Battery_Used_%": 85,
+    "Payload_kg": 12,
+    "Distance_km": 8.7,
+    "Avg_Speed_kmph": 27.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_079",
+    "Mode": "Drone",
+    "Battery_Used_%": 60,
+    "Payload_kg": 9,
+    "Distance_km": 16.4,
+    "Avg_Speed_kmph": 8.2,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_080",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 89,
+    "Payload_kg": 15,
+    "Distance_km": 15.9,
+    "Avg_Speed_kmph": 19.8,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_081",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 77,
+    "Payload_kg": 8,
+    "Distance_km": 21.2,
+    "Avg_Speed_kmph": 14.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_082",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 71,
+    "Payload_kg": 5,
+    "Distance_km": 19.7,
+    "Avg_Speed_kmph": 28.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_083",
+    "Mode": "Drone",
+    "Battery_Used_%": 99,
+    "Payload_kg": 15,
+    "Distance_km": 22.9,
+    "Avg_Speed_kmph": 29.8,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_084",
+    "Mode": "Drone",
+    "Battery_Used_%": 85,
+    "Payload_kg": 15,
+    "Distance_km": 6.9,
+    "Avg_Speed_kmph": 34.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_085",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 75,
+    "Payload_kg": 5,
+    "Distance_km": 10.2,
+    "Avg_Speed_kmph": 12.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_086",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 79,
+    "Payload_kg": 14,
+    "Distance_km": 19.5,
+    "Avg_Speed_kmph": 5.3,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_087",
+    "Mode": "Drone",
+    "Battery_Used_%": 63,
+    "Payload_kg": 15,
+    "Distance_km": 7.4,
+    "Avg_Speed_kmph": 14.2,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_088",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 67,
+    "Payload_kg": 15,
+    "Distance_km": 23.3,
+    "Avg_Speed_kmph": 13.9,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_089",
+    "Mode": "Drone",
+    "Battery_Used_%": 68,
+    "Payload_kg": 12,
+    "Distance_km": 8.1,
+    "Avg_Speed_kmph": 27.4,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_090",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 95,
+    "Payload_kg": 12,
+    "Distance_km": 20.1,
+    "Avg_Speed_kmph": 29.1,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_091",
+    "Mode": "Drone",
+    "Battery_Used_%": 98,
+    "Payload_kg": 6,
+    "Distance_km": 15.5,
+    "Avg_Speed_kmph": 20.8,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_092",
+    "Mode": "Drone",
+    "Battery_Used_%": 96,
+    "Payload_kg": 6,
+    "Distance_km": 6.2,
+    "Avg_Speed_kmph": 21.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_093",
+    "Mode": "Drone",
+    "Battery_Used_%": 70,
+    "Payload_kg": 10,
+    "Distance_km": 22.1,
+    "Avg_Speed_kmph": 18.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_094",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 65,
+    "Payload_kg": 13,
+    "Distance_km": 13.9,
+    "Avg_Speed_kmph": 6.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_095",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 89,
+    "Payload_kg": 14,
+    "Distance_km": 6.2,
+    "Avg_Speed_kmph": 18.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_096",
+    "Mode": "Drone",
+    "Battery_Used_%": 85,
+    "Payload_kg": 9,
+    "Distance_km": 21.3,
+    "Avg_Speed_kmph": 27.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_097",
+    "Mode": "Drone",
+    "Battery_Used_%": 87,
+    "Payload_kg": 10,
+    "Distance_km": 19,
+    "Avg_Speed_kmph": 21.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_098",
+    "Mode": "Drone",
+    "Battery_Used_%": 90,
+    "Payload_kg": 5,
+    "Distance_km": 10.7,
+    "Avg_Speed_kmph": 10.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_099",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 83,
+    "Payload_kg": 11,
+    "Distance_km": 14,
+    "Avg_Speed_kmph": 32.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_100",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 65,
+    "Payload_kg": 15,
+    "Distance_km": 24.3,
+    "Avg_Speed_kmph": 31.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_101",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 67,
+    "Payload_kg": 7,
+    "Distance_km": 24.9,
+    "Avg_Speed_kmph": 16.8,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_102",
+    "Mode": "Drone",
+    "Battery_Used_%": 60,
+    "Payload_kg": 5,
+    "Distance_km": 24.6,
+    "Avg_Speed_kmph": 18.9,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_103",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 74,
+    "Payload_kg": 8,
+    "Distance_km": 14.2,
+    "Avg_Speed_kmph": 9.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_104",
+    "Mode": "Drone",
+    "Battery_Used_%": 62,
+    "Payload_kg": 15,
+    "Distance_km": 13.4,
+    "Avg_Speed_kmph": 28,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_105",
+    "Mode": "Drone",
+    "Battery_Used_%": 73,
+    "Payload_kg": 6,
+    "Distance_km": 7,
+    "Avg_Speed_kmph": 6,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_106",
+    "Mode": "Drone",
+    "Battery_Used_%": 62,
+    "Payload_kg": 11,
+    "Distance_km": 13.8,
+    "Avg_Speed_kmph": 21.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_107",
+    "Mode": "Drone",
+    "Battery_Used_%": 92,
+    "Payload_kg": 9,
+    "Distance_km": 9.7,
+    "Avg_Speed_kmph": 32.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_108",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 75,
+    "Payload_kg": 9,
+    "Distance_km": 22.5,
+    "Avg_Speed_kmph": 34.6,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_109",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 79,
+    "Payload_kg": 9,
+    "Distance_km": 6.2,
+    "Avg_Speed_kmph": 33.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_110",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 95,
+    "Payload_kg": 12,
+    "Distance_km": 5.9,
+    "Avg_Speed_kmph": 15.3,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_111",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 86,
+    "Payload_kg": 11,
+    "Distance_km": 8,
+    "Avg_Speed_kmph": 16.3,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_112",
+    "Mode": "Drone",
+    "Battery_Used_%": 74,
+    "Payload_kg": 9,
+    "Distance_km": 22.2,
+    "Avg_Speed_kmph": 9.3,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_113",
+    "Mode": "Drone",
+    "Battery_Used_%": 95,
+    "Payload_kg": 11,
+    "Distance_km": 24.4,
+    "Avg_Speed_kmph": 21.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_114",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 75,
+    "Payload_kg": 9,
+    "Distance_km": 9.1,
+    "Avg_Speed_kmph": 24.4,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_115",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 65,
+    "Payload_kg": 13,
+    "Distance_km": 19.5,
+    "Avg_Speed_kmph": 10.7,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_116",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 98,
+    "Payload_kg": 14,
+    "Distance_km": 5.8,
+    "Avg_Speed_kmph": 7.2,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_117",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 73,
+    "Payload_kg": 10,
+    "Distance_km": 11.1,
+    "Avg_Speed_kmph": 32.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_118",
+    "Mode": "Drone",
+    "Battery_Used_%": 67,
+    "Payload_kg": 12,
+    "Distance_km": 23.3,
+    "Avg_Speed_kmph": 25.9,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_119",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 75,
+    "Payload_kg": 13,
+    "Distance_km": 11.4,
+    "Avg_Speed_kmph": 13.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_120",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 79,
+    "Payload_kg": 9,
+    "Distance_km": 12.2,
+    "Avg_Speed_kmph": 31.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_121",
+    "Mode": "Drone",
+    "Battery_Used_%": 90,
+    "Payload_kg": 10,
+    "Distance_km": 23.3,
+    "Avg_Speed_kmph": 16.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_122",
+    "Mode": "Drone",
+    "Battery_Used_%": 96,
+    "Payload_kg": 8,
+    "Distance_km": 19.8,
+    "Avg_Speed_kmph": 5.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_123",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 69,
+    "Payload_kg": 8,
+    "Distance_km": 11.6,
+    "Avg_Speed_kmph": 16.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_124",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 95,
+    "Payload_kg": 15,
+    "Distance_km": 23.9,
+    "Avg_Speed_kmph": 15.1,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_125",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 89,
+    "Payload_kg": 7,
+    "Distance_km": 19.7,
+    "Avg_Speed_kmph": 15.6,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_126",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 71,
+    "Payload_kg": 13,
+    "Distance_km": 24.8,
+    "Avg_Speed_kmph": 33.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_127",
+    "Mode": "Drone",
+    "Battery_Used_%": 63,
+    "Payload_kg": 5,
+    "Distance_km": 13.2,
+    "Avg_Speed_kmph": 30.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_128",
+    "Mode": "Drone",
+    "Battery_Used_%": 69,
+    "Payload_kg": 5,
+    "Distance_km": 9.4,
+    "Avg_Speed_kmph": 18.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_129",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 91,
+    "Payload_kg": 5,
+    "Distance_km": 5.1,
+    "Avg_Speed_kmph": 21.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_130",
+    "Mode": "Drone",
+    "Battery_Used_%": 93,
+    "Payload_kg": 9,
+    "Distance_km": 15.7,
+    "Avg_Speed_kmph": 13.6,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_131",
+    "Mode": "Drone",
+    "Battery_Used_%": 66,
+    "Payload_kg": 6,
+    "Distance_km": 15.5,
+    "Avg_Speed_kmph": 12.2,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_132",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 77,
+    "Payload_kg": 11,
+    "Distance_km": 6.6,
+    "Avg_Speed_kmph": 33.8,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_133",
+    "Mode": "Drone",
+    "Battery_Used_%": 74,
+    "Payload_kg": 9,
+    "Distance_km": 18.7,
+    "Avg_Speed_kmph": 30.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_134",
+    "Mode": "Drone",
+    "Battery_Used_%": 85,
+    "Payload_kg": 11,
+    "Distance_km": 12.5,
+    "Avg_Speed_kmph": 19.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_135",
+    "Mode": "Drone",
+    "Battery_Used_%": 65,
+    "Payload_kg": 12,
+    "Distance_km": 21.9,
+    "Avg_Speed_kmph": 24.3,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_136",
+    "Mode": "Drone",
+    "Battery_Used_%": 93,
+    "Payload_kg": 5,
+    "Distance_km": 9.6,
+    "Avg_Speed_kmph": 32,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_137",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 62,
+    "Payload_kg": 6,
+    "Distance_km": 18.7,
+    "Avg_Speed_kmph": 13.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_138",
+    "Mode": "Drone",
+    "Battery_Used_%": 80,
+    "Payload_kg": 5,
+    "Distance_km": 24.2,
+    "Avg_Speed_kmph": 22.6,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_139",
+    "Mode": "Drone",
+    "Battery_Used_%": 79,
+    "Payload_kg": 7,
+    "Distance_km": 16.3,
+    "Avg_Speed_kmph": 22,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_140",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 84,
+    "Payload_kg": 7,
+    "Distance_km": 20.8,
+    "Avg_Speed_kmph": 25.7,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_141",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 63,
+    "Payload_kg": 6,
+    "Distance_km": 13.7,
+    "Avg_Speed_kmph": 30.2,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_142",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 80,
+    "Payload_kg": 5,
+    "Distance_km": 17.7,
+    "Avg_Speed_kmph": 28.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_143",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 74,
+    "Payload_kg": 10,
+    "Distance_km": 16.1,
+    "Avg_Speed_kmph": 16.3,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_144",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 65,
+    "Payload_kg": 14,
+    "Distance_km": 10.9,
+    "Avg_Speed_kmph": 12.4,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_145",
+    "Mode": "Drone",
+    "Battery_Used_%": 77,
+    "Payload_kg": 7,
+    "Distance_km": 12.6,
+    "Avg_Speed_kmph": 28.5,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_146",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 80,
+    "Payload_kg": 10,
+    "Distance_km": 7.1,
+    "Avg_Speed_kmph": 5.2,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_147",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 83,
+    "Payload_kg": 9,
+    "Distance_km": 7,
+    "Avg_Speed_kmph": 7.6,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_148",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 95,
+    "Payload_kg": 13,
+    "Distance_km": 15.2,
+    "Avg_Speed_kmph": 8.1,
+    "Weather_Impact": "Yes"
+  },
+  {
+    "Delivery_ID": "DRN_149",
+    "Mode": "Robotic Mule",
+    "Battery_Used_%": 95,
+    "Payload_kg": 6,
+    "Distance_km": 16.9,
+    "Avg_Speed_kmph": 28.5,
+    "Weather_Impact": "No"
+  },
+  {
+    "Delivery_ID": "DRN_150",
+    "Mode": "Drone",
+    "Battery_Used_%": 78,
+    "Payload_kg": 11,
+    "Distance_km": 12.8,
+    "Avg_Speed_kmph": 7.5,
+    "Weather_Impact": "Yes"
+  }
+]
