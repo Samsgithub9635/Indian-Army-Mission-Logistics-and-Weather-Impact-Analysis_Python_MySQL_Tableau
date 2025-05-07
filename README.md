@@ -40,8 +40,9 @@ Original Indian Army logistics and weather data could not be used due to **confi
 ---
 
 ## 🛠️ How to view live interactive dashboard dashboard
-step1: Visit--> ![Dashboard website](https://indian-army-mission-logistics-and-weather-impact-dh7nx7mvp.vercel.app/)
-step2: Click on "Render Dashboard" button
+### step1: Visit--> 
+![Dashboard website](https://indian-army-mission-logistics-and-weather-impact-dh7nx7mvp.vercel.app/)
+### step2: Click on "Render Dashboard" button
 ![click Render Dashboard](https://github.com/Samsgithub9635/Indian-Army-Mission-Logistics-and-Weather-Impact-Analysis_Python_MySQL_Tableau/blob/main/index%20page%20.png)
 
 ## 📊 Dashboard
