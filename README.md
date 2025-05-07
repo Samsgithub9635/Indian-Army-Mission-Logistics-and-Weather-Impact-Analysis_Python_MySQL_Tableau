@@ -43,7 +43,7 @@ Original Indian Army logistics and weather data could not be used due to **confi
 ### step1: Visit--> https://indian-army-mission-logistics-and-weather-impact-dh7nx7mvp.vercel.app
 ### step2: Click on "Render Dashboard" button
 ![click Render Dashboard](https://github.com/Samsgithub9635/Indian-Army-Mission-Logistics-and-Weather-Impact-Analysis_Python_MySQL_Tableau/blob/main/index%20page%20.png)
-### step3: View and nteract with the dashboard
+### step3: View and interact with the dashboard
 
 ## 📊 Dashboard
 ![Dashboard1](https://github.com/Samsgithub9635/Indian-Army-Mission-Logistics-and-Weather-Impact-Analysis_Python_MySQL_Tableau/blob/main/Dashboard1.png)
